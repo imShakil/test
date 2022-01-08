@@ -1,5 +1,3 @@
-[
-"https://oidc.gluu.org/callback",
-"https://github.com/callback",
-"https://google.com/callback"
-]
+[ "https://oidc.gluu.org/callback", 
+"https://github.com/callback", 
+"https://google.com/callback" ]
