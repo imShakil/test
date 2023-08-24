@@ -1,7 +1,5 @@
-["https://oidc.gluu.org/callback", 
-"https://github.com/callback", 
-"https://google.com/callback",
-"https://modsso.gluu.info/callback",
-"https://testapp.imshakil.gluu/secure/callback",
-"https://localhost:8091/secure/callback",
-"appscheme://com.example.flutter"]
+[
+  "https://testapp.imshakil.gluu/secure/callback",
+  "https://localhost:8091/secure/callback",
+  "appscheme://com.example.flutter"
+]
